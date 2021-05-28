@@ -1,6 +1,6 @@
 ### The Name. Nadya Nayme.
 
-Nadya Nayme is an anonymous psuedonym that is a name-like variant of "Not a Name". It became my primary nickname after I couldn't use the name "Anonymous" when commenting on [css-tricks][3]. I've gone by many other psuedonyms but they mostly have been lost to time or scrubbed from the internet and replaced. Much of my online presence was around the Runescape community where I was known as "Nyu", which is my in-game name.
+Nadya Nayme is an anonymous psuedonym that is a name-like variant of "Not a Name". It became my primary nickname after I couldn't use the name "Anonymous" when commenting on [css-tricks][3]. I've gone by many other psuedonyms but they mostly have been lost to time or scrubbed from the internet and replaced. Much of my online presence was around the Runescape community where I was known as "Nyu", which is my username in-game. However "Nyu" is very difficult to get as a username so I have been using "NadyaN" and eventually  the more complete "NadyaNayme" since around 2012-2013.
 
 ### About
 
