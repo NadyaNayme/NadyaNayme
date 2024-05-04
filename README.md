@@ -8,13 +8,12 @@ I am a 90's kid at heart that firmly believes that sharing personally identifyin
 
 ### Projects & Ideas I Support
 
+This section has not aged well. Used to be multiple things and now it is back to being only Neocities.
+
 - [Neocities][4] - Many web developers got started by building little personal sites on Geocities. I used to freelance by creating Geocity pages for local businesses. Neocities helps to keep the "personal web" alive. I love the "personal web" created by amateur web developers and the wonderful things they create and share.
-- [mmm.page][5] - More restrictive than Neocities, by design, but also easier to use for users who may not be tech-savvy in the slightest. Another part of the "personal web" and I wish the creator best of luck in growing their project.
-- [Redact.dev][6] - An easy-to-use tool to scrub/delete history on various social media platforms. These kind of tools come and go all the time for specific sites as one-off CLI Python scripts here on Github, but this one looks to have enough development power backing it that I hope it sticks around for a while.
 
 [1]: https://kimiga.aishitei.ru
 [2]: https://nadyanay.me
 [3]: https://css-tricks.com
 [4]: https://neocities.org/
-[5]: https://mmm.page/
-[6]: https://redact.dev/
+
